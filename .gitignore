@@ -1,8 +1,3 @@
 __pycache__/
-*.py[cod]
+*.pyc
 file.json
-.venv/
-venv/
-.coverage
-htmlcov/
-*.egg-info/
