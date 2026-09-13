@@ -1,0 +1,2 @@
+# Development tools only; application and tests use the standard library.
+pycodestyle>=2.8,<3
